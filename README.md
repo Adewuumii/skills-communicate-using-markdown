@@ -1,4 +1,7 @@
-<header>
+# Practcing Markdown
+## What is Markdown?
+### How is it Different and Similar to HTML?
+#### Some Markdown Shortcuts
 
 <!--
   <<< Author notes: Course header >>>
