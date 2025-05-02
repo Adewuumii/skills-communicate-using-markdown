@@ -10,3 +10,7 @@
 ``` javascript
 let varName = Github;
 ```
+## Adding a Tracklist
+- [x] Learn github
+- [x] Learn Markdown
+- [ ] Learn AWS
